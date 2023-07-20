@@ -1,0 +1,1 @@
+O Git é uma ferramenta de controle de versão local. GitHub é uma plataforma para gerenciamento de código e também um ambiente de colaboração entre desenvolvedores, utilizando o Git como sistema de controle.
