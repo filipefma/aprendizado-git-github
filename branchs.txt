@@ -1,0 +1,1 @@
+Branchs (ramos) servem para desenvolvermos features isoladas. A principal é chamada 'master', mas no Github a principal é 'main'. É possível misturar branchs usando o comando 'merge'.
