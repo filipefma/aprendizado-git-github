@@ -1,0 +1,1 @@
+Para fazermos a comunicação com o Github usaremos comandos como 'git push origin main', 'git pull origin main', onde será solicitado nome de usuário e token. Podemos criar arquivos gitignore também se quisermos ocultar informações importantes.
