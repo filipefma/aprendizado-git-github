@@ -1,0 +1,6 @@
+Antes de começar a usar o Git, você tem que torná-lo disponível em seu computador. Há também algumas maneiras de instalar o Git no Windows. A compilação mais oficial está disponível para download no site do Git.
+Depois de instalarmos o GIT, precisamos fazer duas configurações básicas:
+git config --global user.name "seu nome"
+git config --global user.email "seu email"
+Para conferir se deu certo digitar:
+git config --list
